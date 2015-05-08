@@ -10,6 +10,6 @@
     }
   ],
   "autoload": {
-    "psr-0": {"City": ""}
+    "psr-4": {"City\\": "City"}
   }
 }
